@@ -25,7 +25,7 @@ This project uses data manipulation and summary statistics to analyze standardiz
 - Identify and save the borough with the largest variation in a DataFrame called largest_std_dev.
 
 
-# *Skills and Techniques Developed:
+# Skills and Techniques Developed:
 - Data Filtering & Sorting: Improve your ability to filter and sort data efficiently using pandas, a key skill in data manipulation.
 - Aggregation & Grouping: Learn advanced techniques for grouping data and calculating aggregated statistics, crucial for deriving meaningful insights.
 - Statistical Analysis: Hone your statistical analysis skills by calculating and interpreting summary statistics, such as mean and standard deviation, to evaluate trends in educational performance.
