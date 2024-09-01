@@ -1,7 +1,4 @@
 # Exploring_NYC_Public_School_Result_Scores
-Analyze NYC public school test scores using data manipulation and summary statistics to identify top-performing schools and boroughs. This project enhances skills in data filtering, sorting, aggregation, and statistical analysis, which are crucial techniques for anyone interested in data science and educational analytics.
-
-
 This project uses data manipulation and summary statistics to analyze standardized test performance across New York City's public schools. By examining the data, the aim is to identify top-performing schools, explore how academic performance varies by borough, and highlight the city's top ten schools based on combined SAT scores. This analysis is crucial for understanding educational outcomes and disparities across the city.
 
 
